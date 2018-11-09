@@ -6,8 +6,9 @@
       
   <head>
     <body>
+      <body bgcolor="red">
       <h1>i'm testing html web disings</h1>
   </body>
-      </head>
+      </head> 
   </html>
   
